@@ -1,0 +1,8 @@
+D:\Jack\CSharp\ConnectionStringDialog\ConDlg\WpfApplicationTest\obj\x86\Debug\WpfApplicationTest.csprojResolveAssemblyReference.cache
+D:\Jack\CSharp\ConnectionStringDialog\ConDlg\WpfApplicationTest\obj\x86\Debug\Window1.baml
+D:\Jack\CSharp\ConnectionStringDialog\ConDlg\WpfApplicationTest\obj\x86\Debug\Window1.g.cs
+D:\Jack\CSharp\ConnectionStringDialog\ConDlg\WpfApplicationTest\obj\x86\Debug\App.g.cs
+D:\Jack\CSharp\ConnectionStringDialog\ConDlg\WpfApplicationTest\obj\x86\Debug\WpfApplicationTest_MarkupCompile.cache
+D:\Jack\CSharp\ConnectionStringDialog\ConDlg\WpfApplicationTest\obj\x86\Debug\WpfApplicationTest.g.resources
+D:\Jack\CSharp\ConnectionStringDialog\ConDlg\WpfApplicationTest\obj\x86\Debug\WpfApplicationTest.Properties.Resources.resources
+D:\Jack\CSharp\ConnectionStringDialog\ConDlg\WpfApplicationTest\obj\x86\Debug\WpfApplicationTest.csproj.GenerateResource.Cache

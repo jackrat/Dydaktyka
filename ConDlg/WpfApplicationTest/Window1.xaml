@@ -1,0 +1,12 @@
+﻿<Window x:Class="WpfApplicationTest.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Window1" Height="281" Width="300">
+    <StackPanel Height="211">
+        <Button  Click="Button_Click">Open dialog</Button>
+        <TextBox Name="cs" />
+        <TextBox Name="tb" Height="116" />
+        <Button  Click="Button_Click_1">Open dialog Ms</Button>
+        <Button  Click="Button_Click_2">Open dialog Ora</Button>
+    </StackPanel>
+</Window>

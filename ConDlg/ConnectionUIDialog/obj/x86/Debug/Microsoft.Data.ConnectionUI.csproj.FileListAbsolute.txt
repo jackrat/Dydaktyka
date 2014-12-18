@@ -1,0 +1,15 @@
+D:\Jack\CSharp\ConnectionStringDialog\ConDlg\ConnectionUIDialog\obj\x86\Debug\Microsoft.Data.ConnectionUI.csprojResolveAssemblyReference.cache
+D:\Jack\CSharp\ConnectionStringDialog\ConDlg\ConnectionUIDialog\obj\x86\Debug\Microsoft.Data.ConnectionUI.AccessConnectionUIControl.resources
+D:\Jack\CSharp\ConnectionStringDialog\ConDlg\ConnectionUIDialog\obj\x86\Debug\Microsoft.Data.ConnectionUI.AddPropertyDialog.resources
+D:\Jack\CSharp\ConnectionStringDialog\ConDlg\ConnectionUIDialog\obj\x86\Debug\Microsoft.Data.ConnectionUI.DataConnectionAdvancedDialog.resources
+D:\Jack\CSharp\ConnectionStringDialog\ConDlg\ConnectionUIDialog\obj\x86\Debug\Microsoft.Data.ConnectionUI.DataConnectionDialog.resources
+D:\Jack\CSharp\ConnectionStringDialog\ConDlg\ConnectionUIDialog\obj\x86\Debug\Microsoft.Data.ConnectionUI.DataConnectionSourceDialog.resources
+D:\Jack\CSharp\ConnectionStringDialog\ConDlg\ConnectionUIDialog\obj\x86\Debug\Microsoft.Data.ConnectionUI.OdbcConnectionUIControl.resources
+D:\Jack\CSharp\ConnectionStringDialog\ConDlg\ConnectionUIDialog\obj\x86\Debug\Microsoft.Data.ConnectionUI.OleDBConnectionUIControl.resources
+D:\Jack\CSharp\ConnectionStringDialog\ConDlg\ConnectionUIDialog\obj\x86\Debug\Microsoft.Data.ConnectionUI.OracleConnectionUIControl.resources
+D:\Jack\CSharp\ConnectionStringDialog\ConDlg\ConnectionUIDialog\obj\x86\Debug\Microsoft.Data.ConnectionUI.Resources.resources
+D:\Jack\CSharp\ConnectionStringDialog\ConDlg\ConnectionUIDialog\obj\x86\Debug\Microsoft.Data.ConnectionUI.SqlCeConnectionUIControl.resources
+D:\Jack\CSharp\ConnectionStringDialog\ConDlg\ConnectionUIDialog\obj\x86\Debug\Microsoft.Data.ConnectionUI.SqlConnectionUIControl.resources
+D:\Jack\CSharp\ConnectionStringDialog\ConDlg\ConnectionUIDialog\obj\x86\Debug\Microsoft.Data.ConnectionUI.SqlFileConnectionUIControl.resources
+D:\Jack\CSharp\ConnectionStringDialog\ConDlg\ConnectionUIDialog\obj\x86\Debug\Microsoft.Data.ConnectionUI.Strings.resources
+D:\Jack\CSharp\ConnectionStringDialog\ConDlg\ConnectionUIDialog\obj\x86\Debug\Microsoft.Data.ConnectionUI.csproj.GenerateResource.Cache
